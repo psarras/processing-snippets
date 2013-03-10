@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+if ( frameCount%${1:10} == 0) {
+	${2:}
+}
+]]></content>
+    <description>if frameCount</description>
+    <scope>source.pde</scope>
+    <tabTrigger>frameCount if</tabTrigger>
+</snippet>

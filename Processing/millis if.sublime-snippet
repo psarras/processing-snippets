@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+//setup
+int ${1:timePrv} = 0;
+int range = ${2:100};
+//draw
+if (millis() >= ${1:timePrv} - range) {
+	${3:}
+	${1:timePrv} = millis();
+}
+]]></content>
+    <description>if millis</description>
+    <scope>source.pde</scope>
+    <tabTrigger>millis if</tabTrigger>
+</snippet>

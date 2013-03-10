@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+for (int ${1:i} = ${2:0}; ${1:i}<${3:width}; ${1:i}++){
+	for (int ${4:j} = ${5:0}; ${4:j}<${6:height}; ${4:j}++){
+		$0
+	}
+}
+]]></content>
+    <description>for 2</description>
+    <scope>source.pde</scope>
+    <tabTrigger>for 2</tabTrigger>
+</snippet>

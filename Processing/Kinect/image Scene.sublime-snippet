@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+image(${1:context}.sceneImage(), 0, 0, 640, 480);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>image Scene</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

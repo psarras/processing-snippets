@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+pushStyle();
+${1:}
+popStyle();
+]]></content>
+    <description>Push/Pop Style</description>
+    <scope>source.pde</scope>
+    <tabTrigger>pushStyle</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${6:PVector }${1:myVector}${5: = new PVector(${2:0}, ${3:0}, ${4:0})};
+]]></content>
+    <description>PVector3D new</description>
+    <scope>source.pde</scope>
+    <tabTrigger>PVector3D new</tabTrigger>
+</snippet>

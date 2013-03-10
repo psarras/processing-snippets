@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+k"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+."], "command": "run_macro_file", "args": {"file": "Packages/User/nextLine.sublime-macro"} },
+	{ "keys": ["ctrl+,"], "command": "run_macro_file", "args": {"file": "Packages/User/nextLineNoSemi.sublime-macro"} }
+
+]

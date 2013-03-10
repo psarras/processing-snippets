@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+import SimpleOpenNI.*;
+SimpleOpenNI ${1:context};
+${1:context} = new SimpleOpenNI(this);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>import SimpleOpenNI</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

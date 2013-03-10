@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+PVector ${1:myVector};
+]]></content>
+    <description>PVector</description>
+    <scope>source.pde</scope>
+    <tabTrigger>PVector</tabTrigger>
+</snippet>

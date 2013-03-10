@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+// create a font with the third font available to the system:
+PFont ${1:myFont} = createFont(PFont.list()[${2:2}], ${3:14});
+textFont(${1:myFont});
+]]></content>
+    <description>PFont setup</description>
+    <scope>source.pde</scope>
+    <tabTrigger>font setup</tabTrigger>
+</snippet>

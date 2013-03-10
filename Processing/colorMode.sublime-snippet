@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+colorMode(${1:RGB}, ${2:1});
+]]></content>
+    <description>ColorMode</description>
+    <scope>source.pde</scope>
+    <tabTrigger>ColorMode</tabTrigger>
+</snippet>

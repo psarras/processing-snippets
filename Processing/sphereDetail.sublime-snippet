@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+  sphereDetail( ${1:3});
+]]></content>
+    <description>sphereDetail</description>
+    <scope>source.pde</scope>
+    <tabTrigger>sphereDetail</tabTrigger>
+</snippet>

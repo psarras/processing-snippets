@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Package Control",
+		"processing-snippets",
+		"SublimeCodeIntel"
+	],
+	"repositories":
+	[
+		"https://github.com/psarras/processing-snippets.git",
+		"https://github.com/psarras/processing-snippets.git"
+	]
+}
