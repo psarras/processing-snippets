@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+import controlP5.*;
+ControlP5 cp5;
+${1:cp5 = new ControlP5(this);}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>import controlP5</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

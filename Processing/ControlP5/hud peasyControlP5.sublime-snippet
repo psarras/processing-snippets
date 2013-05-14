@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+${1:cp5}.setAutoDraw(false);
+
+${3:gui();}
+
+${4:void gui() {
+  ${2:cam}.beginHUD();
+  ${1:cp5}.draw();
+  ${2:cam}.endHUD();
+}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hud Peasy ControlP5</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
