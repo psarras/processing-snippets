@@ -4,4 +4,6 @@ Just some snippets that I found helpful, intended for personal use
 Installing
 1) Press: Shift-CTRL-P type: "add repo" select: "Package Control: Add Repository"
 2) paste repository address
-3) Press: Shift-CTRL-P type: "upgrade" select: "Package Control: Upgrade Package"
+3) Press: Shift-CTRL-P type: "install" select: "Package Control: Install Package"
+4) Find "processing-snippets" and selected to install
+5) For Updating Later on: Press: Shift-CTRL-P type: "upgrade" select: "Package Control: Upgrade Package"
